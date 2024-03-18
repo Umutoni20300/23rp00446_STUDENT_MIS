@@ -8,6 +8,7 @@
 <body>
     <?php
     echo"heWelcame to student MIS";
+    <a  href="Registration.php" id="p"> click here to  register</a>
     ?>
 </body>
 </html>
